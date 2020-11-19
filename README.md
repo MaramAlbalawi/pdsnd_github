@@ -21,3 +21,6 @@ Forth and lastly: User info, which includes counts of each gender, counts of eac
 
 ### Files used
 chicago.csv, new_york_city.csv, and washington.csv.
+
+### Credits
+ This website https://stackoverflow.com/ is very useful. It helps me to solve some issues.
