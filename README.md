@@ -23,4 +23,7 @@ Forth and lastly: User info, which includes counts of each gender, counts of eac
 chicago.csv, new_york_city.csv, and washington.csv.
 
 ### Credits
+When I need more information about Python, I visit https://www.python.org/. I recommend it.
+
+
  This website https://stackoverflow.com/ is very useful. It helps me to solve some issues.
