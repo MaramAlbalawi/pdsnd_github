@@ -5,7 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#Filtering
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -95,6 +95,7 @@ def time_stats(df):
     print('-'*40)
 
 
+
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
@@ -134,7 +135,7 @@ def trip_duration_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
+   #Displaying data
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
